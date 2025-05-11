@@ -1,0 +1,22 @@
+p {
+    background-color: lightpink;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Comfortaa;
+}
+#number-3 {
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+.number-4 {
+    background-color: lightgreen;
+    font-size: 38px;
+    font-weight: bold;
+}
+.number-3 {
+    color: blue;
+    font-size: 45px;
+    font-weight: bold;
+
+}
